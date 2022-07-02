@@ -23,9 +23,5 @@ status-website:
   baseUrl: /Monitor
   introTitle: "**Fleksa** "
   introMessage: Dashboard for monitoring fleksa websites.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/chris9091/Monitor
+
 
