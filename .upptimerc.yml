@@ -6,13 +6,19 @@ sites:
     url: https://fleksa.com
   - name: Good Taste
     url: https://goodtaste.fleksa.de/
- 
+   - name: My.fleksa
+    url: https://my.fleksa.com/
+  - name: Good Taste
+    url: https://goodtaste.fleksa.de/  
+  - name: Cheesy Burger
+    url: https://cheesyburger-walsrode.de/
+  - name: Pizzeria AMO
+    url: https://amopizzeria.de/
 
 status-website:
   baseUrl: /Monitor
-  introTitle: "**Fleksa** dashboard for monitoring websites"
-  introMessage: Fleka sites monitoring websites.
-  footer: Fleksa Monitoring 2022
+  introTitle: "**Fleksa** "
+  introMessage: Dashboard for monitoring fleksa websites.
   navbar:
     - title: Status
       href: /
