@@ -10,7 +10,7 @@ sites:
 
 status-website:
   baseUrl: /Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Fleksa** dashboard for monitoring websites"
   introMessage: Fleka sites monitoring websites.
   footer: Fleksa Monitoring 2022
   navbar:
