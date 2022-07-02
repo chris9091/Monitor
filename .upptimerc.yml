@@ -13,8 +13,12 @@ sites:
   - name: Cheesy Burger
     url: https://cheesyburger-walsrode.de/
   - name: Pizzeria AMO
-    url: https://amopizzeria.de/
-
+    url: https://amopizzeria.de
+  - name: Berlin aaoji
+    url: https://berlin-aaoji.de
+  - name: Gandhi pizza
+    url: http://gandhipizzaservice.de 
+    
 status-website:
   baseUrl: /Monitor
   introTitle: "**Fleksa** "
