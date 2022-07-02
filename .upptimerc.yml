@@ -2,14 +2,11 @@ owner: chris9091
 repo: Monitor 
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Fleksa
+    url: https://fleksa.com
+  - name: Good Taste
+    url: https://goodtaste.fleksa.de/
+ 
 
 status-website:
   baseUrl: /Monitor
