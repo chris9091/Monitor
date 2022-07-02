@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 674,
+    "timeDay": 674,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 644,
+    "timeDay": 644,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 486,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 644,
+    "timeDay": 644,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Pizzeria AMO",
-    "url": "https://amopizzeria.de/",
+    "url": "https://amopizzeria.de",
     "icon": "https://favicons.githubusercontent.com/amopizzeria.de",
     "slug": "pizzeria-amo",
     "status": "up",
@@ -100,11 +100,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 585,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "time": 591,
+    "timeDay": 591,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Berlin aaoji",
+    "url": "https://berlin-aaoji.de",
+    "icon": "https://favicons.githubusercontent.com/berlin-aaoji.de",
+    "slug": "berlin-aaoji",
+    "status": "down",
+    "uptime": "6.82%",
+    "uptimeDay": "6.82%",
+    "uptimeWeek": "6.82%",
+    "uptimeMonth": "6.82%",
+    "uptimeYear": "6.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
+  },
+  {
+    "name": "Gandhi pizza",
+    "url": "http://gandhipizzaservice.de",
+    "icon": "https://favicons.githubusercontent.com/gandhipizzaservice.de",
+    "slug": "gandhi-pizza",
+    "status": "down",
+    "uptime": "14.27%",
+    "uptimeDay": "14.27%",
+    "uptimeWeek": "14.27%",
+    "uptimeMonth": "14.27%",
+    "uptimeYear": "14.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   }
 ]
