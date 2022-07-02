@@ -5,9 +5,9 @@ sites:
   - name: Fleksa
     url: https://fleksa.com
   - name: Good Taste
-    url: https://goodtaste.fleksa.de/
+    url: https://goodtaste.fleksa.de
   - name: My.fleksa
-    url: https://my.fleksa.com/
+    url: https://my.fleksa.com
   - name: Good Taste
     url: https://goodtaste.fleksa.de/  
   - name: Cheesy Burger
