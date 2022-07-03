@@ -10,11 +10,11 @@
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "98.46%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "time": 760,
+    "timeDay": 760,
+    "timeWeek": 760,
+    "timeMonth": 760,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2022-07-03": 14
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.38%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.38%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "time": 578,
+    "timeDay": 578,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2022-07-03": 14
     }
@@ -80,19 +80,19 @@
     "url": "https://cheesyburger-walsrode.de/",
     "icon": "https://favicons.githubusercontent.com/cheesyburger-walsrode.de",
     "slug": "cheesy-burger",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-03": 1
     }
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 763,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 452,
+      "2022-07-03": 453,
       "2022-07-02": 395
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 452,
+      "2022-07-03": 453,
       "2022-07-02": 395
     }
   },
@@ -161,16 +161,16 @@
     "icon": "https://favicons.githubusercontent.com/indianflavour.de",
     "slug": "indian-flavour",
     "status": "down",
-    "uptime": "16.14%",
-    "uptimeDay": "16.14%",
-    "uptimeWeek": "16.14%",
-    "uptimeMonth": "16.14%",
-    "uptimeYear": "16.14%",
-    "time": 622,
-    "timeDay": 622,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "uptime": "17.74%",
+    "uptimeDay": "17.74%",
+    "uptimeWeek": "17.74%",
+    "uptimeMonth": "17.74%",
+    "uptimeYear": "17.74%",
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2022-07-03": 55
     }
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 467,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -204,11 +204,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 820,
+    "timeDay": 820,
+    "timeWeek": 820,
+    "timeMonth": 820,
+    "timeYear": 820,
     "dailyMinutesDown": {}
   },
   {
@@ -222,11 +222,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1309,
-    "timeDay": 1309,
-    "timeWeek": 1309,
-    "timeMonth": 1309,
-    "timeYear": 1309,
+    "time": 1415,
+    "timeDay": 1415,
+    "timeWeek": 1415,
+    "timeMonth": 1415,
+    "timeYear": 1415,
     "dailyMinutesDown": {}
   },
   {
@@ -235,18 +235,18 @@
     "icon": "https://favicons.githubusercontent.com/www.kiranekidukaan.de",
     "slug": "kiranekidukaan",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 54
+      "2022-07-03": 55
     }
   },
   {
@@ -260,29 +260,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 810,
-    "timeWeek": 810,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "time": 965,
+    "timeDay": 965,
+    "timeWeek": 965,
+    "timeMonth": 965,
+    "timeYear": 965,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Cheesy Burger",
+    "name": "Fleksa monitor test",
     "url": "https://chris9091.github.io/Fleksa_Monitor01",
     "icon": "https://favicons.githubusercontent.com/chris9091.github.io",
-    "slug": "cheesy-burger",
+    "slug": "fleksa-monitor-test",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "uptime": "6.97%",
+    "uptimeDay": "6.97%",
+    "uptimeWeek": "6.97%",
+    "uptimeMonth": "6.97%",
+    "uptimeYear": "6.97%",
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2022-07-03": 0
     }
