@@ -35,7 +35,7 @@ sites:
   - name: Kirana store
     url: https://kirana-store.de/admin/sessions/login
     method: GET 
-  - name: Cheesy Burger
+  - name: Fleksa monitor test
     url: https://chris9091.github.io/Fleksa_Monitor01     
 
 status-website:
