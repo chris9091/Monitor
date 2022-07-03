@@ -36,8 +36,18 @@ sites:
     url: https://kirana-store.de/admin/sessions/login
     method: GET 
   - name: Fleksa monitor test
-    url: https://chris9091.github.io/Fleksa_monitor01/     
-
+    url: https://chris9091.github.io/Fleksa_monitor01/    
+  - name: Restaurant Ajad
+    url: https://ajadberlin.de/
+  - name: Dhaba@49 - The taste of India
+    url: https://akkisindisch-foodcorner.de/
+  - name: Ganesha Palace Albstadt
+    url: https://albstadt-ganeshapalace.de/
+  - name: Restaurant Taj Mahal
+    url: https://allensbach-tajmahal.de/   
+  - name: Pizza La Fontana
+    url: https://altdorflafontana.de/
+    
 status-website:
   baseUrl: /Monitor
   introTitle: "**Fleksa** "
