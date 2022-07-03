@@ -4,33 +4,38 @@ repo: Monitor
 sites:
   - name: Fleksa
     url: https://fleksa.com
-    method: POST
   - name: Good Taste
     url: https://goodtaste.fleksa.de
-    method: POST
   - name: My.fleksa
     url: https://my.fleksa.com
-    method: POST
   - name: Good Taste
     url: https://goodtaste.fleksa.de/  
-    method: POST
   - name: Cheesy Burger
     url: https://cheesyburger-walsrode.de/
-    method: POST
   - name: Pizzeria AMO
     url: https://amopizzeria.de
-    method: POST
-    __dangerous__disable_verify_peer: true
   - name: Berlin aaoji
     url: https://berlin-aaoji.de
-    method: POST
   - name: Gandhi pizza
     url: http://gandhipizzaservice.de 
-    method: POST
   - name: Indian Flavour
     url: http://indianflavour.de 
-    method: POST
-   
+  - name: NIDDA API
+    url: https://my.fleksa.com/pyapi/shop/restaurant-nidda.de/index
+    method: GET
+  - name: Eatarian
+    url: https://eatarian.com
+    method: GET
+  - name: Deli tadka
+    url: https://www.delitadka.de/
+    method: GET  
+  - name: Kiranekidukaan
+    url: https://www.kiranekidukaan.de/
+    method: GET 
+  - name: Kirana store
+    url: https://kirana-store.de/admin/sessions/login
+    method: GET 
+     
 
 status-website:
   baseUrl: /Monitor
