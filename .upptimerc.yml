@@ -5,35 +5,35 @@ sites:
   - name: Fleksa
     url: https://fleksa.com
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Good Taste
     url: https://goodtaste.fleksa.de
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: My.fleksa
     url: https://my.fleksa.com
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Good Taste
     url: https://goodtaste.fleksa.de/  
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Cheesy Burger
     url: https://cheesyburger-walsrode.de/
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Pizzeria AMO
     url: https://amopizzeria.de
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Berlin aaoji
     url: https://berlin-aaoji.de
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Gandhi pizza
     url: http://gandhipizzaservice.de 
     method: POST
-     __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
     
 status-website:
   baseUrl: /Monitor
