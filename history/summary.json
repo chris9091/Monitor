@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/fleksa.com",
     "slug": "fleksa",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
+    "uptime": "98.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 764,
     "timeDay": 764,
     "timeWeek": 764,
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/my.fleksa.com",
     "slug": "my-fleksa",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.79%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 744,
+      "2022-07-03": 761,
       "2022-07-02": 395
     }
   },
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 744,
+      "2022-07-03": 761,
       "2022-07-02": 395
     }
   },
@@ -159,11 +159,11 @@
     "icon": "https://favicons.githubusercontent.com/indianflavour.de",
     "slug": "indian-flavour",
     "status": "down",
-    "uptime": "84.60%",
-    "uptimeDay": "84.60%",
-    "uptimeWeek": "84.60%",
-    "uptimeMonth": "84.60%",
-    "uptimeYear": "84.60%",
+    "uptime": "85.31%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "85.31%",
+    "uptimeYear": "85.31%",
     "time": 674,
     "timeDay": 674,
     "timeWeek": 674,
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-03": 346
+      "2022-07-03": 363
     }
   },
   {
@@ -270,19 +270,19 @@
     "url": "https://chris9091.github.io/Fleksa_monitor01/",
     "icon": "https://favicons.githubusercontent.com/chris9091.github.io",
     "slug": "fleksa-monitor-test",
-    "status": "down",
-    "uptime": "71.14%",
-    "uptimeDay": "71.14%",
-    "uptimeWeek": "71.14%",
-    "uptimeMonth": "71.14%",
-    "uptimeYear": "71.14%",
+    "status": "up",
+    "uptime": "67.25%",
+    "uptimeDay": "67.25%",
+    "uptimeWeek": "67.25%",
+    "uptimeMonth": "67.25%",
+    "uptimeYear": "67.25%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-07-03": 84
+      "2022-07-03": 101
     }
   },
   {
