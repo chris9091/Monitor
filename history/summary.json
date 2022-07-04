@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/my.fleksa.com",
     "slug": "my-fleksa",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 587,
     "timeDay": 682,
     "timeWeek": 587,
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-04": 925,
+      "2022-07-04": 943,
       "2022-07-03": 1440,
       "2022-07-02": 395
     }
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-04": 925,
+      "2022-07-04": 943,
       "2022-07-03": 1440,
       "2022-07-02": 395
     }
@@ -161,11 +161,11 @@
     "icon": "https://favicons.githubusercontent.com/indianflavour.de",
     "slug": "indian-flavour",
     "status": "down",
-    "uptime": "97.22%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 696,
     "timeDay": 833,
     "timeWeek": 696,
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-04": 925,
+      "2022-07-04": 944,
       "2022-07-03": 1042
     }
   },
@@ -273,19 +273,19 @@
     "url": "https://chris9091.github.io/Fleksa_monitor01/",
     "icon": "https://favicons.githubusercontent.com/chris9091.github.io",
     "slug": "fleksa-monitor-test",
-    "status": "down",
-    "uptime": "89.74%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "89.74%",
-    "time": 111,
-    "timeDay": 108,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "status": "up",
+    "uptime": "88.90%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "88.90%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "88.90%",
+    "time": 108,
+    "timeDay": 101,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2022-07-04": 95,
+      "2022-07-04": 113,
       "2022-07-03": 101
     }
   },
